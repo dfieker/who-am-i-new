@@ -1,0 +1,46 @@
+body {
+	margin: 0 auto;
+	max-width: 50em;
+	font-family: "Helvetica";
+	line-height: 2;
+	padding: 3em 2em;
+	padding: 1em 2em 3em 2em;
+	color: #5F1717;
+	background-color: #FFF; 
+}
+
+h1, strong {
+	color: #333;
+}
+
+h1 {
+	color: #DDD;
+}
+
+code, pre {
+	background: #eee;
+}
+
+pre {
+	padding: 2em;
+	background: #f5f7f9;
+	border-bottom: 2px solid #d8dee9;
+	border-left: 4px solid #69c;
+	color: #a7adba;
+}
+
+a {
+	color: #e81c4f;
+}
+
+header {
+	background-color: #5F1717;
+	background-image: url("Images/Cape-Town.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+	line-height: 5;
+	padding: 3em;
+	text-align: center;
+	color: #222;
+}
